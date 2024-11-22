@@ -25,7 +25,7 @@ This project is a Dockerized Streamlit application that supports batch and manua
 
 1. **Clone the Repository**:
    ```bash
-   git clone [<repository-url>](https://github.com/IISC-GROUP-5/Streamlit.git)
+   git clone https://github.com/IISC-GROUP-5/Streamlit.git
    cd Streamlit
 
 2. **Virtual Environment**
