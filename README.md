@@ -19,19 +19,6 @@ This project is a Dockerized Streamlit application that supports batch and manua
 2. **Python 3.9+** (For local setup).
 
 ---
-## Project Structure
-
-project/
-├── gui/
-│ └── Inference_GUI_Streamlit.py # Main Streamlit application
-├── inference.py # Helper functions for loading models, preprocessing, and predictions
-├── models/ # Folder to store ML models
-│ ├── naive_bayes_Ad_click_model.pkl
-│ ├── naive_bayes_Gender_model.pkl
-├── requirements.txt # Python dependencies
-├── Dockerfile # Docker configuration
-└── README.md # Documentation
-
 ## Getting Started
 
 ### Option 1: Local Setup (Without Docker)
