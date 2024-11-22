@@ -1,25 +1,8 @@
-# Ad Click and Gender Prediction App
-
-This project predicts ad clicks and user gender using machine learning models. It supports manual input, batch predictions via CSV, and dynamic model uploads.
-
-## Features
-- **Manual Predictions**: Enter feature values and get predictions for ad clicks and gender.
-- **Batch Predictions**: Upload a CSV file with feature values and receive predictions for all rows.
-- **Dynamic Model Uploads**: Replace default models with new ones via the app interface.
-- **Cross-Platform Compatibility**: Works seamlessly on Windows, macOS, and Linux.
-
----
-
-## Setup Instructions
-
-### 1. Clone the Repository
-```bash
-git clone <repository-url>
-cd Project
-
 # Streamlit Application with Docker Deployment
 
 This project is a Dockerized Streamlit application that supports batch and manual predictions with the ability to upload custom machine learning models.
+
+---
 
 ## Features
 
@@ -27,6 +10,24 @@ This project is a Dockerized Streamlit application that supports batch and manua
 - **Dynamic Model Loading**: Upload new models via the app.
 - **Dockerized Deployment**: Seamless deployment using Docker.
 - **Custom Python Path**: Configured to use a custom `PYTHONPATH` for module imports.
+
+---
+
+## Prerequisites
+
+1. **Docker** (Recommended for deployment).
+2. **Python 3.9+** (For local setup).
+
+---
+
+## Getting Started
+
+### Option 1: Local Setup (Without Docker)
+
+1. **Clone the Repository**:
+   ```bash
+   git clone <repository-url>
+   cd project
 
 ## Project Structure
 
