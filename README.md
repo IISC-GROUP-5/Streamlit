@@ -19,16 +19,6 @@ This project is a Dockerized Streamlit application that supports batch and manua
 2. **Python 3.9+** (For local setup).
 
 ---
-
-## Getting Started
-
-### Option 1: Local Setup (Without Docker)
-
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   cd project
-
 ## Project Structure
 
 project/
@@ -41,12 +31,6 @@ project/
 ├── requirements.txt # Python dependencies
 ├── Dockerfile # Docker configuration
 └── README.md # Documentation
-
-
-## Prerequisites
-
-1. **Docker** (Recommended for deployment).
-2. **Python 3.9+** (For local setup).
 
 ## Getting Started
 
