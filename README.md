@@ -35,7 +35,7 @@ This project is a Dockerized Streamlit application that supports batch and manua
     pip install -r requirements.txt
 
 3. ```bash
-    PYTHONPATH=$(pwd) streamlit run gui/Inference_GUI_Streamlit.py
+    PYTHONPATH=$(pwd) streamlit run Inference_GUI_Streamlit.py
 
 ###  Option 2: Dockerized Setup
 
